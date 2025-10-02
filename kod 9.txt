@@ -1,0 +1,155 @@
+//detta ska ej printas
+/*
+// console.log("Hello!");
+
+console.log("this is an example");
+
+/*
+
+console.log("tjabba tjena");
+
+const examplestring = "Hello World";
+console.log(examplestring);
+
+console.log("let x :number = 5");
+
+console.log("var stringoutput :number = 14");
+x = "b";
+y = 2;
+z =x+y;
+console.log(z);
+
+let gold = 50
+gold = gold +10
+gold +=5;
+console.log(gold);
+ */
+
+let kmh=72;
+let ms:= kmh/3.6;
+console.log(ms);
+
+—
+
+let int = "Hello";
+
+let int=10
+function myFirstfunction(int){
+  console.log(int);
+}
+myFirstfunction(int){
+  let z = a+b;
+  return z;
+}
+//console.log(z);/*let results;results = myFirstfunction(a: 7,b:6)console.log(results);/*
+
+
+
+let isGreater = 10 > 9; // Truelet isEqual = 10 == 9; // Falselet isNotEqual = 10 != 9; // Truelet isLess = 10 < 9; // Falselet isGreaterOrEqual = 10>= 9;// Truelet isLessOrEqual = 10<= 9;// False
+
+console.log("Fry meat.");console.log("Cut onions.");console.log("Fry onions.");console.log("Add tomato sauce." );console.log("Add spices.");console.log("Boil.");
+
+function sayManyThings() {console.log("I can say one thing.");return;console.log("But can I say many things?");}
+
+
+function sayManyThings() {
+  console.log("I can say one thing.");
+  console.log("And I can say a second thing.");
+  console.log("Even a third thing!");
+}
+
+sayManyThings();
+
+
+--- 
+
+//detta ska ej printas/*
+// console.log("Hello World!");
+console.log('Annica Gunnrin');
+console.log('2 oktober 2025');
+console.log('annica.gunnrin@medieinstitutet.se');
+
+console.log('First.');
+console.log('Second.');
+
+console.log('This is line 1.');
+console.log('This is line 2.');
+console.log('This is line 3.'); console.log('This is line 4.');
+console.log('This is line 5.');
+console.log('This is line 6.');
+
+function calculateBMI (weight,height){
+  return weight/(height*height);
+}
+let weight= 70;
+let height= 1.82;
+let BMI =  calculateBMI(weight,height);
+//console.log(BMI);
+
+console.log(`${BMI.toFixed(0)}`);
+
+const string = "Green bottles hanging on the wall"
+let numberOfbottles = 10;
+const string2="And if one green bottle, should accidentally fall, there will be"+ --numberOfbottles + " ";
+console.log(string2);
+console.log (numberOfbottles + " " + string +  ". " + numberOfbottles + " " + string);
+--numberOfbottles;
+console.log(numberOfbottles);
+numberOfbottles = numberOfbottles - numberOfbottles;
+
+let bool= true;
+console.log(bool);
+console.log(!bool);
+
+console.log("ageMessage:");
+console.log("favourite number:");
+
+function makeLasagna()   {
+    console.log("Fry meat.")
+console.log("Cut onions.");
+console.log("Fry onions.");
+console.log("Add tomato sauce." );
+console.log("Add spices.");
+console.log("Boil.");
+}
+makeLasagna()
+let isHungry= false;
+// breakfast
+if(isHungry){
+        makeLasagna();
+}
+isHungry:true;
+//lunch
+{ makeLasagna();{
+  if isHungry : = true();
+}
+//dinner
+{ makeLasagna();{
+if isHungry = true;
+}
+
+let listExample = [1,1,2,3]
+  listExample.forEach(char => console.log(char)) => {})
+  console.log(listExample[]);
+
+function sayManyThings() {
+  console.log("I can say one thing.");
+  console.log("And I can say a second thing.");
+ }
+ {}
+function test(bla number)  {
+ // console.log("test")
+ // let a:string = number;
+}
+   return 24;
+    console.log("Hello world!")
+}
+
+let results : number = test ();
+  console.log(results);
+  }
+
+---
+
+console.log("Time for breakfast." );if(isHungry) {// insert code for making lasagna here.}// …console.log("Time for lunch." );if(isHungry) {// insert code for making lasagna here.}// …console.log("Time for dinner." );if(isHungry) {// insert code for making lasagna here.}
+
